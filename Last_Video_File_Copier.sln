@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last_Video_File_Copier", "Last_Video_File_Copier\Last_Video_File_Copier.csproj", "{A90E6D16-12E6-49EE-BB39-8A9350E0234E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90E6D16-12E6-49EE-BB39-8A9350E0234E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90E6D16-12E6-49EE-BB39-8A9350E0234E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90E6D16-12E6-49EE-BB39-8A9350E0234E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90E6D16-12E6-49EE-BB39-8A9350E0234E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401388E4-FB73-4A2E-A16C-365AF9020B92}
+	EndGlobalSection
+EndGlobal
